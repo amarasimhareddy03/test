@@ -1,4 +1,4 @@
-Removed line 1
+Removed
 this is edited by amar
 a
 x
